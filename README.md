@@ -1,5 +1,5 @@
 # Study-on-Halfmoon
-This task was the part of my "Research Seminar" course at TU Ilmenau.
+This task was the part of my "Research Seminar" course at TU Ilmenau, under the [Distributed Systems & Operating Systems Group(DSOS)](https://www.tu-ilmenau.de/universitaet/fakultaeten/fakultaet-informatik-und-automatisierung/profil/institute-und-fachgebiete/institut-fuer-praktische-informatik/fachgebiet-verteilte-systeme-und-betriebssysteme) .
 
 The task was to understand a Research Paper on the Distributed Systems domain, write a report based on your own understanding and present your understanding in the research group for discusssions & answering questions. 
 
